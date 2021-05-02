@@ -1,0 +1,60 @@
+30-01-2021:
+     hello.py
+     hello_world.py
+31-01-2021:
+     variable_and_input_fn.py
+     strings.py
+     type_convertion.py
+     arithmatic_operators.py
+     if statement.py
+01-02-2021:
+     n_numbers.py
+     max_of_num.py
+     prime_or_not.py
+     palindrome.py
+02-02-2021:
+     si.py
+     assign_quadrants.py
+     count_vowels_consonants.py
+03-02-2021:
+     def_quadrants.py
+     simple calculator.py
+04-02-2021:
+     current_date.py [using strftime][https://youtu.be/9kM6n4BIQj8]
+     current_time.py
+     time_differnce.py[not completed]
+05-02-2021:
+     time_differnce.py[is'nt working right for 24hr format]
+06-02-2021:
+     date_differnce.py[used timedelta]
+07-02-2021:
+     function: fun_division.py
+               fun_perimeter of circle.py
+               fun_perimeter of triangle.py
+08-02-2021:
+     division.py
+     peri_circle.py
+     peri_triangle.py
+09-02-2021:
+     fun_bmi.py &  bmi.py
+     fun_sum_of_natural_numbers.py(iteration) 
+            iteration_sum.py
+            formula_sum.py
+11-02-2021:
+     recursion_sum.py
+     fun_sum_of_squares.py
+            formula_sq_sum.py
+18-04-2021:
+     list_equality.py
+19-04-2021:
+     list_addition.py
+     list_search_ele.py
+20-04-2021:
+     tuple_search.py
+21-04-2021:
+     dict_search.py
+23-04-2021:
+     introductions to pandas
+
+               
+     
